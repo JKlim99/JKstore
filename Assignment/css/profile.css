@@ -1,0 +1,43 @@
+.profile-link{
+    font-size:20px;
+    text-decoration: none;
+    color:black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align:center;
+}
+.profile-link-selected{
+    text-decoration:underline;
+    
+}
+.profile-button{
+	background-color:white;
+	color:black;
+	border:black solid 2px;
+	text-decoration:none;
+	padding: 5px 20px 5px 20px;
+	font-size:20px;
+	font-family: 'Anton', sans-serif;
+}
+.profile-button:hover{
+	color:white;
+	background-color:black;
+}
+table.order-slot{
+	background-color:rgb(235, 235, 235);
+	font-family: 'Montserrat', sans-serif;
+	padding:20px;
+	box-shadow:black 0 0 5px;
+	
+}
+a.order-text{
+	color:black;
+}
+a.order-text:hover{
+	color:grey;
+}
+img.rate-star{
+	width:30px;
+	height:30px;
+	
+}
